@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="diagrams.net Badge"/>
   <img src="https://img.shields.io/badge/Notion-f5f5f5?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"/>
   <img src="https://img.shields.io/badge/Trello-242F36?style=for-the-badge&logo=trello&logoColor=0052CC" alt="Trello Badge"/>
+  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea Badge"/>
 </div>
 
 ## 📊 GitHub Stats
