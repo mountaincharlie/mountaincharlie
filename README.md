@@ -1,8 +1,9 @@
 ## 🌞 Charlie Harland
 
 <div id="badges">
-  <!-- ADD PORTFORLIO LINK -->
+  <a href="https://www.charlieharland.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1713?style=for-the-badge&logo=portfolio&logoColor=#1C1719" alt="Portfolio Badge"/></a>
   <a href="https://www.linkedin.com/in/charlie-harland/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://unsplash.com/@mountaincharlie" target="_blank"><img src="https://img.shields.io/badge/Unsplash-ffffff?style=for-the-badge&logo=unsplash&logoColor=black" alt="Unsplash Badge"/></a>
   <a href="https://www.youtube.com/@sounds_like_charlie" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </div>
 
@@ -28,12 +29,16 @@
   <img src="https://img.shields.io/badge/ESA's SNAP-003247?style=for-the-badge&logo=ESASNAP&logoColor=white" alt="ESA's SNAP Badge"/>
   <img src="https://img.shields.io/badge/Liquid (Shopify)-7AB55C?style=for-the-badge&logo=Liquid&logoColor=white" alt="Liquid (Shopify) Badge"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Badge"/>
+  <img src="https://img.shields.io/badge/OpenLayers-00A0FA?style=for-the-badge&logo=OpenLayers&logoColor=#2D2D2D" alt="OpenLayers Badge"/>
 </div>
 
 ### Tools & Software
 <div id="software-badges">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/Poetry-1A2433?style=for-the-badge&logo=Poetry&logoColor=#0080D4" alt="Poetry Badge"/>
+  <img src="https://img.shields.io/badge/Vite-442962?style=for-the-badge&logo=Vite&logoColor=#ffbf38" alt="Vite Badge"/>
+  
   <img src="https://img.shields.io/badge/pgAdmin-0064a5?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="pgAdmin Badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black&textColor=black" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode Badge"/>
@@ -46,7 +51,9 @@
   <img src="https://img.shields.io/badge/Trello-242F36?style=for-the-badge&logo=trello&logoColor=0052CC" alt="Trello Badge"/>
   <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea Badge"/>
   <img src="https://img.shields.io/badge/dbdiagram.io-0F52BA?style=for-the-badge&logo=dbdiagram&logoColor=white" alt="dbdiagram.io Badge"/>
-  <img src="https://img.shields.io/badge/balsamiq-f3f3f3?style=for-the-badge&logo=balsamiq&logoColor=black" alt="balsamiq Badge"/>
+  <img src="https://img.shields.io/badge/balsamiq-f3f3f3?style=for-the-badge&logo=balsamiq&logoColor=black" alt="Balsamiq Badge"/>
+  <img src="https://img.shields.io/badge/Jira-005DD1?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge"/>
+  <img src="https://img.shields.io/badge/Confluence-005DD1?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge"/>
 </div>
 
 ## 📊 GitHub Stats
