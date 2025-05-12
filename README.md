@@ -1,7 +1,7 @@
-## 🌞 Charlie Harland
+## ☀️ Charlie Harland 
 
 <div id="badges">
-  <a href="https://www.charlieharland.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1713?style=for-the-badge&logo=portfolio&logoColor=#1C1719" alt="Portfolio Badge"/></a>
+  <a href="https://www.charlieharland.com" target="_blank"><img src="https://img.shields.io/badge/charlieharland.com-1F1713?style=for-the-badge&logo=portfolio&logoColor=#1C1719" alt="charlieharland.com Badge"/></a>
   <a href="https://www.linkedin.com/in/charlie-harland/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://unsplash.com/@mountaincharlie" target="_blank"><img src="https://img.shields.io/badge/Unsplash-ffffff?style=for-the-badge&logo=unsplash&logoColor=black" alt="Unsplash Badge"/></a>
   <a href="https://www.youtube.com/@sounds_like_charlie" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
